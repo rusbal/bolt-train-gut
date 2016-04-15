@@ -6,3 +6,4 @@ app/config/config.yml
 /extensions
 /files
 /theme
+/app/cache
