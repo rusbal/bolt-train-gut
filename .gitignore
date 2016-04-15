@@ -2,6 +2,7 @@ app/config/config.yml
 
 *.swo
 *.swp
+.DS_Store
 
 /extensions
 /files
